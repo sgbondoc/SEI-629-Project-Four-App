@@ -4,35 +4,39 @@
 
 ### Intro:
 - The corgi community runs deep and they love to connect!
-- Join Corgi Connect to create a profile, share photos, and connect on all things corgi. 
+- Join Corgi Connect to share photos of your short-legged friend, view all the fun corgi photos, and message other users on all things corgi. 
 
 ### User Stories:
 
 #### MVP
 - As a user, I would like to learn about the app so I can decide to sign up or log in.
-- As a user, I would like to create a corgi profile so I can share (view, edit, or delete) details about my corgi.
-- As a user, I would like to create, view, edit, delete posts.
-- As a user, I would like to chat with other users real time.
-- As a user, I would like to view a corgi giphy of the day or trending giphys.
+- As a user, I would like to create, view, delete posts.
+- As a user, I would like to be able to comment on other user's posts.
+- As a user, I would like to create, view, delete messages.
+- As a user, I would like to be able to reply to other user's messages.
 
 #### STRETCH 
 - As a user, I would like to be able to "like" posts.
-- As a user, I would like to be able to comment on posts.
+- As a user, I would to be able to create and edit my corgi profile.
 - As a user, I would like to be able to add corgi friends to my profile.
     
 ### Getting Started:
 - Planning: https://trello.com/b/1Bn34EmK/corgi-connect
-- GitHub Front End: 
-- GitHub Back End: 
+- GitHub Front End: https://github.com/sgbondoc/corgiconnect-client
+- GitHub Back End: https://github.com/sgbondoc/corgiconnect-api
 
 ### Future Features:
-
+- As a user, I would like to chat with other users real time.
 
 ### Wireframes & Models:
 ![Wireframes]
 ![Models]
 
 ### Technology:
-
+- HTML, CSS, Javascript
+- Mongoose/mongoDB, Express, React, Node
+- MaterializeCSS
+- Cloudinary
+- Giphy API
 
 ### App Link: 

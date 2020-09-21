@@ -30,12 +30,12 @@
 
 ### Wireframes & Models:
 ![Wireframes]
-(corgi-connect-homepage.png)
-(corgi-connect-posts.png)
-(corgi-connect-chat.png)
-(corgi-connect-logout.png)
+(https://github.com/sgbondoc/SEI-629-Project-Four-App/blob/master/corgi-connect-homepage.png)
+(https://github.com/sgbondoc/SEI-629-Project-Four-App/blob/master/corgi-connect-chat.png)
+(https://github.com/sgbondoc/SEI-629-Project-Four-App/blob/master/corgi-connect-posts.png)
+(https://github.com/sgbondoc/SEI-629-Project-Four-App/blob/master/corgi-connect-logout.png)
 ![Models]
-(corgi-connect-models.png)
+(https://github.com/sgbondoc/SEI-629-Project-Four-App/blob/master/corgi-connect-models.png)
 
 ### Technology:
 - HTML, CSS, Javascript

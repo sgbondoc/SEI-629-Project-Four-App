@@ -29,13 +29,10 @@
 - As a user, I would like to chat with other users real time.
 
 ### Wireframes & Models:
-![Wireframes]
 ![corgi-connect-homepage](https://user-images.githubusercontent.com/66690581/93749762-514beb80-fbaf-11ea-89f1-04bef89dae61.png)
 ![corgi-connect-posts](https://user-images.githubusercontent.com/66690581/93749769-527d1880-fbaf-11ea-964e-367a13fbaa21.png)
 ![corgi-connect-chat](https://user-images.githubusercontent.com/66690581/93749760-50b35500-fbaf-11ea-867e-1595e7669ebf.png)
 ![corgi-connect-logout](https://user-images.githubusercontent.com/66690581/93749765-514beb80-fbaf-11ea-8ab2-c1a96159b5ce.png)
-
-![Models]
 ![corgi-connect-models](https://user-images.githubusercontent.com/66690581/93749767-51e48200-fbaf-11ea-8c35-d1b9d1f0b673.png)
 
 ### Technology:

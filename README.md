@@ -38,7 +38,7 @@
 ### Technology:
 - HTML, CSS, Javascript
 - Mongoose/mongoDB, Express, React, Node
-- MaterializeCSS
+- Materialize
 - Cloudinary
 - Giphy API
 

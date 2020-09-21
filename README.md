@@ -30,7 +30,12 @@
 
 ### Wireframes & Models:
 ![Wireframes]
+(corgi-connect-homepage.png)
+(corgi-connect-posts.png)
+(corgi-connect-chat.png)
+(corgi-connect-logout.png)
 ![Models]
+(corgi-connect-models.png)
 
 ### Technology:
 - HTML, CSS, Javascript
